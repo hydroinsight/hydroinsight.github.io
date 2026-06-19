@@ -73,10 +73,10 @@ Sept 2014 – May 2019
 Mashhad, Iran
 Oct 2024 – Present
 
-* Created and organized groundwater databases for regional water resource studies
-* Modeled and predicted groundwater levels across the province
-* Investigated land subsidence and proposed prevention and mitigation strategies
-* Supported groundwater management and hydrogeological decision-making workflows
+* Creating and organizing groundwater databases for regional water resource studies
+* Modeling and predicting groundwater levels across the province
+* Investigating land subsidence and proposing prevention and mitigation strategies
+* Supporting groundwater management and hydrogeological decision-making workflows
 
 ### Associate Researcher
 
@@ -84,10 +84,10 @@ Oct 2024 – Present
 Mashhad, Iran
 Nov 2023 – Present
 
-* Collected, validated, and preprocessed observational, remote sensing, and climate model datasets
-* Developed predictive and simulation models for water and environmental research
-* Conducted statistical analysis and integrated hydroclimatic data for climate research insights
-* Supported environmental data analysis using Python, GIS, and machine learning workflows
+* Collecting, validating, and preprocessing observational, remote sensing, and climate model datasets
+* Developing predictive and simulation models for water and environmental research
+* Conducting statistical analysis and integrating hydroclimatic data for climate research insights
+* Supporting environmental data analysis using Python, GIS, and machine learning workflows
 
 ### Teaching Assistant
 
