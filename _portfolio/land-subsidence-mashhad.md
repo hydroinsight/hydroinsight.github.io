@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Land Subsidence Simulation Framework in Mashhad Aquifer, Iran"
 excerpt: "A hybrid machine learning and geographically weighted regression framework for analyzing and predicting land subsidence under groundwater level decline scenarios."
