@@ -10,6 +10,7 @@ redirect_from:
 
 ---
 
+# Curriculum Vitae
 
 **Ali Rezaee**
 Water Resources Management | Hydroclimate Data Analysis | Remote Sensing | GIS | Python | Machine Learning
