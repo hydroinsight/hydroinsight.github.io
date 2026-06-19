@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# HydroInsight
 
 **HydroInsight** is a research-oriented platform focused on water resources, climate data, remote sensing, GIS, Python programming, and machine learning applications in environmental studies.
 
